@@ -18,7 +18,7 @@ function DockerPull {
 }
 
 DockerPull mcr.microsoft.com/windows/servercore:ltsc2016
-DockerPull mcr.microsoft.com/windows/nanoserver:1803
+DockerPull mcr.microsoft.com/windows/nanoserver:10.0.14393.953
 DockerPull microsoft/aspnetcore-build:1.0-2.0
 DockerPull mcr.microsoft.com/dotnet/framework/aspnet:4.8-windowsservercore-ltsc2016
 DockerPull mcr.microsoft.com/dotnet/framework/runtime:4.8-windowsservercore-ltsc2016
